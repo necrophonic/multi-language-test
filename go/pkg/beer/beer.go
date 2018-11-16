@@ -1,3 +1,4 @@
+// Package beer simulates the act of drinking a tall frosty beer
 package beer
 
 import "fmt"
